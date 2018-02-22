@@ -1,17 +1,20 @@
 # BSAP-Presentation
 Biomedical signal acquisition and processing
 
-This page contains the code and the data files used in the Biomedical Signal Acquisition Presentation
+This page contains the code and the data files used in the **Biomedical Signal Acquisition and Processing** presentation 
+
+# [Presentation](http://goo.gl/2uS31c)   
+# goo.gl/2uS31c
 
 ### **Authored** by Hugo Gamboa
 
 ### **Contributed** by João Rodrigues
 
-A set of ipythons nootbooks include the code to generate the figures of the presentation. The ***data*** directory contains .txt files in tab separated values with the signals. 
+A set of ipython notebooks include the code to generate the figures of the presentation. The ***data*** directory contains .txt files in tab separated values with the signals. 
 
 Some signals examples can also be found in [OpenSignals](http://biosignalsplux.com/en/learn/signal-samples)
 
-
+Some figures have been generated in [Inkscape](www.inkscape.org) and exist in the directory figures.
 
 ## 1 Signals
 
@@ -19,7 +22,7 @@ Some signals examples can also be found in [OpenSignals](http://biosignalsplux.c
 
 ## 2 Acqusition System
 
-[Acquisition code] (Acquisition.ipynb)
+[Acquisition code](Acquisition.ipynb)
 
 ## 3 Processing
 
