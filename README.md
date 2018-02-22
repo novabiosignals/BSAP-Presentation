@@ -3,8 +3,7 @@ Biomedical signal acquisition and processing
 
 This page contains the code and the data files used in the **Biomedical Signal Acquisition and Processing** presentation 
 
-# [Presentation](http://goo.gl/2uS31c)   
-# goo.gl/2uS31c
+# [Presentation link: goo.gl/2uS31c](http://goo.gl/2uS31c)   
 
 ### **Authored** by Hugo Gamboa
 
@@ -14,8 +13,8 @@ A set of ipython notebooks include the code to generate the figures of the prese
 
 Some signals examples can also be found in [OpenSignals](http://biosignalsplux.com/en/learn/signal-samples)
 
-Some figures have been generated in [Inkscape](www.inkscape.org) and exist in the directory figures.
-
+Some ***figures*** have been generated in [Inkscape](www.inkscape.org) and exist in the directory figures in svg or pdf.
+TODO INCLUDE LINK TO DIRECTORY
 ## 1 Signals
 
 [Signals code](Signals.ipynb)
