@@ -9,7 +9,7 @@ This page contains the code and the data files used in the **Biomedical Signal A
 
 ### **Contributed** by João Rodrigues
 
-A set of ipython notebooks include the code to generate the figures of the presentation. The ***data*** directory contains .txt files in tab separated values with the signals. 
+A set of ipython notebooks include the code to generate the figures of the presentation. The [**data**](data/) directory contains .txt files in tab separated values with the signals. 
 
 Some signals examples can also be found in [OpenSignals](http://biosignalsplux.com/en/learn/signal-samples)
 
