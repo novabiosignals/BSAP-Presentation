@@ -21,7 +21,7 @@ TODO INCLUDE LINK TO DIRECTORY
 
 ## 2 Acqusition System
 
-[Acquisition code](Acquisition System.ipynb)
+[Acquisition code](Acquisition%20System.ipynb)
 
 ## 3 Processing
 
