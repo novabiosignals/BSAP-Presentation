@@ -13,8 +13,7 @@ A set of ipython notebooks include the code to generate the figures of the prese
 
 Some signals examples can also be found in [OpenSignals](http://biosignalsplux.com/en/learn/signal-samples)
 
-Some **figures** have been generated in [Inkscape](www.inkscape.org) and exist in the directory [inkscape](/figures/inkscape) in svg or pdf. The remaining figures have been generated in python and can be found
-in the folder [figures](/figures).
+Some **figures** have been generated in [Inkscape](www.inkscape.org) and exist in the directory [inkscape](/figures/inkscape) in svg or pdf. The remaining figures have been generated in python and can be found in the folder [figures](/figures) in their corresponding presentation path.
 
 ## 1 Signals
 
